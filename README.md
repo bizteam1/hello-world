@@ -1,1 +1,1 @@
-# hello-world
+# hello-worldI am working on a ride share app for my new ride share company, in both IOS and android OS.  I need to build a team for this my skills in programming are very limited. Please Join. So far there are scripts on github. not sure where to begin though.
